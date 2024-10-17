@@ -11,7 +11,6 @@ The data used for this study was retrieved from the Kaggle website and is availa
 ## Tools
 - MySQL Workbench 8.0 to create an instance of MySQL an connect it to python
 - Jupyter notebook IDE for data analysis
-- Power BI for data visualization
 
 ## Exoloratory Data Analysis
 The following business questions were investigated as part of EDA:
